@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository includes the annotated dataset from "ExPUNations: Augmenting puns with keywords and explanations" to appear at EMNLP 2022 (paper available on [amazon.science](https://www.amazon.science/publications/expunations-augmenting-puns-with-keywords-and-explanations) or [arXiv](https://arxiv.org/abs/2210.13513)).
+This repository includes the annotated dataset from "ExPUNations: Augmenting puns with keywords and explanations" appearing at EMNLP 2022 (paper available on [amazon.science](https://www.amazon.science/publications/expunations-augmenting-puns-with-keywords-and-explanations) or [arXiv](https://arxiv.org/abs/2210.13513)).
 
 The original SemEval 2017 Task 7 dataset (Miller et al., 2017)
 contains puns that are either homographic (exploiting polysemy) or heterographic (exploiting phonological similarity to another word).
